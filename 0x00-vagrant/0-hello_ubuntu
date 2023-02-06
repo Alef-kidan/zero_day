@@ -1,1 +1,2 @@
-
+The Linux kernel 
+When we run uname command without any options, it just prints the core operating system name.
