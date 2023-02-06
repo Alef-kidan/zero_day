@@ -1,1 +1,2 @@
-
+"Hello Africa"
+"Hello Ethiopia"
